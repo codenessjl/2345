@@ -1,0 +1,2 @@
+2016-09-09 16:51:43 - Starting C:\Program Files\nodejs\node.exe --harmony "E:\HorseMan\node_modules\node-windows\lib\wrapper.js" -f "E:\HorseMan\server.js" -l "2345Service" -g 0.25 -w 1 -r 3 -a n
+2016-09-09 16:51:44 - Started 13332

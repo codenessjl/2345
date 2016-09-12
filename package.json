@@ -1,0 +1,22 @@
+{
+  "name": "horse-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "getmac": "^1.2.1",
+    "node-horseman": "^3.1.1",
+    "node-schedule": "^1.1.1",
+    "node-windows": "^0.1.11",
+    "phantomjs": "^2.1.7",
+    "request": "^2.74.0",
+    "segment": "^0.1.3",
+    "socket.io": "^1.4.8",
+    "word-picker": "^1.2.7"
+  }
+}

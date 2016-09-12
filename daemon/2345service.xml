@@ -1,0 +1,1 @@
+<service><id>2345service.exe</id><name>2345Service</name><description>2345 service.</description><executable>C:\Program Files\nodejs\node.exe</executable><arguments>--harmony "E:\HorseMan\node_modules\node-windows\lib\wrapper.js" -f "E:\HorseMan\server.js" -l "2345Service" -g 0.25 -w 1 -r 3 -a n</arguments><logmode>rotate</logmode></service>

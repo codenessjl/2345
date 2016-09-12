@@ -1,0 +1,2 @@
+[General]
+cookies="@Variant(\0\0\0\x7f\0\0\0\x16QList<QNetworkCookie>\0\0\0\0\x1\0\0\0\x5\0\0\0\x46sts=0; expires=Tue, 07-Mar-2017 09:46:58 GMT; domain=.2345.com; path=/\0\0\0Jlc2=58362; expires=Sun, 06-Sep-2026 09:46:55 GMT; domain=.2345.com; path=/\0\0\0Iwc=58362; expires=Tue, 07-Mar-2017 10:09:21 GMT; domain=.2345.com; path=/\0\0\0Vwc_n=%25u4E0A%25u6D77; expires=Tue, 07-Mar-2017 10:09:21 GMT; domain=.2345.com; path=/\0\0\0Ilc=58362; expires=Tue, 07-Mar-2017 10:09:22 GMT; domain=.2345.com; path=/)"

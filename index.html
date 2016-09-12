@@ -1,0 +1,7 @@
+<script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+<script>
+    var socket = io('http://localhost:18080');
+    socket.on('message', function (log) {
+        document.write(log.content + "<br/>");
+    });
+</script>
